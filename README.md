@@ -1,6 +1,6 @@
 # Keystroke Analysis for Remote Authentication
 
-This repository is where the research paper `Keystroke Analysis for Remote Authentication` by [Gabriel Padis](https://github.com/LordPompidou) and Rim Zaafouri, supervised by Dr Darragh O’Brien is made public.
+This repository is where the research paper `Keystroke Analysis for Remote Authentication` by [Gabriel Padis](https://github.com/LordPompidou) and [Rim Zaafouri](https://github.com/rz160211), supervised by Dr Darragh O’Brien is made public.
 In it is the final paper in pdf format, but also the literature review, the source datasets and the source code. We hope that this will be helpful to other when researching this topic.
 
 ## Usage
