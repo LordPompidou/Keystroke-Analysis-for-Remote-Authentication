@@ -4,6 +4,10 @@ This repository is where the research paper `Keystroke Analysis for Remote Authe
 In it is the final paper in pdf format, but also the literature review, the source datasets and the source code. We hope that this will be helpful to other when researching this topic.
 
 ## Usage
+### Installation
+* Make sure python3 is installed (or present in a venv)
+* Install the packages with `pip install -r requirements.txt`
+* Run the main python file `python main.py`
 
 ### What is here
 * In `images/` are the images for the paper
